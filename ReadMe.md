@@ -6,7 +6,7 @@ It contains:
 - Visualizings and stats about the adult-census dataset
 - The dataset of the power consumption
 - Classification using trees
-- Regressions using 
+- Regressions using NNs
 - Overview-presentation of ML in Python
 
 _This GitHub repository is provided without a license, and users are free to use, modify, and distribute the code for their own purposes._
