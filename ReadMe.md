@@ -12,7 +12,7 @@ It contains:
 _This GitHub repository is provided without a license, and users are free to use, modify, and distribute the code for their own purposes._
 
 ## Requirements
-All jupyter notebooks were created with Python 3.8.5, additionally the following scikit packages were uses:
+All jupyter notebooks were created with Python 3.8.5, additionally the following scikit packages were used:
 
 `pip install scikit-learn`
 
