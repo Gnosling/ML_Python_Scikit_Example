@@ -16,4 +16,6 @@ All jupyter notebooks were created with Python 3.8.5, additionally the following
 
 `pip install scikit-learn`
 
-`pip install scikit-optimize`
+`pip install scikit-optimize` for hyperparameter optimization
+
+`pip install lime`  for feature influence on prediction
